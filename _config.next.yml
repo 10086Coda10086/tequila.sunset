@@ -72,7 +72,7 @@ creative_commons:
   # Available values: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | cc-zero
   license: by-nc-sa
   # Available values: big | small
-  size: small
+  size: big
   sidebar: true
   post: true
   # You can set a language value if you prefer a translated version of CC license, e.g. deed.zh
